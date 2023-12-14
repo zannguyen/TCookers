@@ -2,6 +2,7 @@
 #include<cmath>
 using namespace std;
 int main(){
+	cout<<"Hello world"<<endl;
 	float xA,yA,xB,yB;
 	cin>>xA>>yA>>xB>>yB;
 	float AB;
